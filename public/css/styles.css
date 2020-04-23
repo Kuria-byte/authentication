@@ -14,3 +14,15 @@ body {
   color: #fff;
   background-color: #000;
 }
+.facebook_Button{
+position: absolute;
+right:2rem;
+top:7rem;
+
+}
+.google_button{
+  position: absolute;
+  right:2rem;
+  top:12rem;
+
+}
