@@ -14,8 +14,8 @@
 - $ npm install passport-facebook
 
 ### Usage
--Create an Application
--Before using passport-facebook/Google, you must register an application with Facebook or Google
+- Create an Application
+- Before using passport-facebook/Google, you must register an application with Facebook or Google
 
 ## Configure Strategy
 - The Facebook authentication strategy authenticates users using a Facebook account and OAuth 2.0 tokens.
