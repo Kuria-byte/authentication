@@ -1,8 +1,7 @@
 # About
 - Learning user website Authentication
 - Passport strategy for authenticating with Facebook using the OAuth 2.0 API.
-
--This lets you authenticate using Facebook in your Node.js applications. By plugging into Passport, Facebook authentication can be easily and unobtrusively integrated into any application or framework that supports Connect-style middleware, including Express.
+- This lets you authenticate using Facebook in your Node.js applications. By plugging into Passport, Facebook authentication can be easily and unobtrusively integrated into any application or framework that supports ***Connect-style middleware***, including Express.
 
 ## Installation
 - $ npm install passport-facebook
